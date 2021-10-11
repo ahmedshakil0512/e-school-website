@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.bg-header-nav{
+    background:#f0fff0;
+}
+.sign-in-btn{
+    background:#21b573;
+    color: white;
+    border: 1px solid #21b573;
+    padding: 5px 15px;
+    border-radius: 20px;
+    transition: .4s;
+}
+.sign-in-btn:hover{
+    background:white;
+    color: black;
+}
+.banner-secton{
+    background:#f0fff0;
+    margin-top: 62px;
+}
+.banner-title{
+    color:#21b573 ;
+}
+.first-content{
+    padding-bottom: 20px;
+}
+.blog{
+    width: 250px;
+    padding: 50px;
+    background:#0cf58c25;
+    margin-bottom: 40px;
+    display:inline-block;
+    transition: .4s;
+}
+.blog h4{
+    font-size: 20px;
+    margin-top: 15px;
+}
+.blog:hover{
+    background: white;
+    transform: scale(1.1);
+    box-shadow: 1px 5px 10px lightgray !important;
+}
+.card{
+    border-radius: 10px;
+    border: none;
+    box-shadow:1px 5px 10px lightgray !important ;
+}
+.footer-section{
+    color: white;
+    background:#282531;
+}
